@@ -5,7 +5,7 @@ public class Gugudan2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		System.out.println("´Ü ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä.");
+		System.out.println("ë‹¨ ìˆ˜ë¥¼ ìž…ë ¥í•˜ì„¸ìš”.");
 		int num = sc.nextInt();
 		int i = 0, j = 0;
 		for (i = 1; i <= 9; i++)
