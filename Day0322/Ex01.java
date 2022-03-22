@@ -17,8 +17,15 @@ public class Ex01 {
 				continue;
 			}
 			if (i == 0)
+			{	
 				System.out.println(a + "번 입력받았습니다.");
 				break;
+			}	
+			else if (i > 10)
+			{
+				System.out.println("잘못 입력하셨습니다.");
+				break;
+			}
 		}
 		
 	}
