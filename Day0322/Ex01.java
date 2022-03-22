@@ -24,7 +24,6 @@ public class Ex01 {
 			else if (i > 10)
 			{
 				System.out.println("잘못 입력하셨습니다.");
-				break;
 			}
 		}
 		
