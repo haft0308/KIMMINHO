@@ -13,7 +13,7 @@ public class Ex01 {
 			i = sc.nextInt();
 			if (i > 0 && i <= 10)
 			{
-			a++;
+				a++;
 				continue;
 			}
 			if (i == 0)
