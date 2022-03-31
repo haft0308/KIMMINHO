@@ -3,6 +3,7 @@ public class Ex07 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//11
 		int[] answer = {1, 4, 4, 3, 1, 4, 4, 2};
 		for(int i = 0; i < 8; i++)
 		{
