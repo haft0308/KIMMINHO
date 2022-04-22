@@ -14,7 +14,7 @@ public class ProductMain {
 		for (int i = 0; i < 3; i++) 
 		{
 			b.buy(p[i]);   //p배열에 할당되어있는 각각의 price와 bonuspoint를 						   
-		}				   //Buyer의 money와 bonuspoint에서 감시킨다.
+		}				   //Buyer의 money와 bonuspoint에서 증감시킨다.
 		b.print(); //Buyer의 money와 bonuspoint를 출력시키는 메소드 호출
 	}
 
